@@ -18,6 +18,9 @@ func main() {
 	test()
 
 	mode.CeShi()
+
+	fmt.Println("hello world")
+
 }
 
 func test() {
