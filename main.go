@@ -11,4 +11,5 @@ func main() {
 
 	fmt.Println("你好阿")
 
+	fmt.Println("很高兴认识你")
 }
