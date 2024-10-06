@@ -21,6 +21,8 @@ func main() {
 
 	fmt.Println("hello world")
 
+	mode.NND()
+
 }
 
 func test() {
