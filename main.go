@@ -16,6 +16,8 @@ func main() {
 	fmt.Println("测试项目")
 
 	test()
+
+	mode.CeShi()
 }
 
 func test() {
