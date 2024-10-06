@@ -23,6 +23,8 @@ func main() {
 
 	mode.NND()
 
+	fmt.Println("1234w我是2")
+
 }
 
 func test() {
